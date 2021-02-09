@@ -31,6 +31,6 @@ class TodoApp extends Component {
     }
 }
 function ErrorComponent() {
-    return <div>Error Occurred!!</div>
+    return <div>Error Occurred!</div>
 }
 export default TodoApp
